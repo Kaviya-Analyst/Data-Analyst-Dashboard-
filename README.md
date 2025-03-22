@@ -29,3 +29,5 @@ Google Play Store Analysis and App Popularity Prediction: This project analyzes 
 -Created pivot tables according to the questions asked.
 -Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
+# Dashboard
+
