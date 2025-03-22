@@ -1,2 +1,3 @@
-# Data-Analyst-Dashboard-
-I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization.
+# Google-Play-Store-Analysis-Dashboard-
+# Project Objective
+Google Play Store Analysis and App Popularity Prediction: This project analyzes Google Play Store apps, focusing on sizing and pricing strategies. It includes bigram analysis of user reviews to discern patterns in user behavior and attributes of good or bad apps. Additionally, it predicts app popularity (install count) using machine learning models like random forest, decision trees, and logistic regression. ​
