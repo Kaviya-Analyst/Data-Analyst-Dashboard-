@@ -17,5 +17,6 @@ Google Play Store Analysis and App Popularity Prediction: This project analyzes 
 
 -Is there a relationship between price and rating? (Do paid apps get better ratings?)
 
--Dashboard Interaction <a href="
+-Dashboard Interaction <a href="https://github.com/Kaviya-Analyst/Data-Analyst-Dashboard-/blob/main/download%20(1).png">View Dashboard</a>
+-<a href="https://github.com/Kaviya-Analyst/Data-Analyst-Dashboard-/blob/main/download%20(1).png">View Dashboard</a>
 
