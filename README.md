@@ -19,7 +19,7 @@ Google Play Store Analysis and App Popularity Prediction: This project analyzes 
 
 -Dashboard Interaction <a href="https://github.com/Kaviya-Analyst/Data-Analyst-Dashboard-/blob/main/download%20(1).png">View Dashboard</a>
 -<a href="https://github.com/Kaviya-Analyst/Data-Analyst-Dashboard-/blob/main/download%20(2).png">View Dashboard</a>
--<a href="https://github.com/Kaviya-Analyst/Data-Analyst-Dashboard-/blob/main/download%20(2).png">View Dashboard</a>
--<a href="https://github.com/Kaviya-Analyst/Data-Analyst-Dashboard-/blob/main/download%20(2).png">View Dashboard</a>
+-<a href="https://github.com/Kaviya-Analyst/Data-Analyst-Dashboard-/blob/main/download%20(3).png">View Dashboard</a>
+-<a href="https://github.com/Kaviya-Analyst/Data-Analyst-Dashboard-/blob/main/download%20(4).png">View Dashboard</a>
 
 
