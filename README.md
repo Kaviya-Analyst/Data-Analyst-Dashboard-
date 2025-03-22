@@ -30,4 +30,4 @@ Google Play Store Analysis and App Popularity Prediction: This project analyzes 
 -Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 # Dashboard
-![Screenshot(495)].(https://github.com/Kaviya-Analyst/Data-Analyst-Dashboard-/blob/main/download%20(1).png)
+![download (4)](https://github.com/user-attachments/assets/b94b8343-ffb0-4034-bb41-e7ceed84e21b)
