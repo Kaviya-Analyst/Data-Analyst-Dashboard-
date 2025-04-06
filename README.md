@@ -4,7 +4,6 @@ Google Play Store Analysis and App Popularity Prediction: This project analyzes 
 # Dataset used
 -<a href="https://www.kaggle.com/code/odins0n/play-store-app-reviews-scrapper-daily-update">Dataset</a>
 
-
 # Questions (KPIs)
 
 -What are the most popular app categories? (Based on install counts)
@@ -32,6 +31,7 @@ Google Play Store Analysis and App Popularity Prediction: This project analyzes 
 # Dashboard
 
 ![download (4)](https://github.com/user-attachments/assets/b94b8343-ffb0-4034-bb41-e7ceed84e21b)
+![image](https://github.com/user-attachments/assets/88402dc6-cdf2-4a77-940b-60a634d8a196)
 
 # Project insights
 
